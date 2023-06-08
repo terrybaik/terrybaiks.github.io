@@ -163,7 +163,7 @@ body {
 }
 
 span {
-    color: rgb(255, 255, 255);
+    color: red;
 }
 
 h2 {
@@ -174,7 +174,7 @@ h2 {
 .main {
     width: 370px;
     height: 215px;
-    top: 315%;
+    top: 25%;
     left: 50%;
     position: absolute;
     transform: translate(-50%, -50%);
@@ -215,7 +215,7 @@ h2 {
 
 .text {
   position: relative;
-  top: 36%;
+  top: 42%;
   right: -50%;
   transform: translate(-50%, -50%);
 }
